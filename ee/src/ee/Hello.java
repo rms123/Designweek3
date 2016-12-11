@@ -1,5 +1,5 @@
 package ee;
 
 public class Hello {
-int designweek3;
+int designweek33;
 }
